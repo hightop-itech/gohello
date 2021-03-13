@@ -1,2 +1,2 @@
 # gohello
-Hello world Application for test
+Hello world Module for test
